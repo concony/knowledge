@@ -1,7 +1,6 @@
 ---
 tags:
   - type/principle
-  - status/refined
   - topic/note-taking
 ---
 

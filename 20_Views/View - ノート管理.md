@@ -1,7 +1,6 @@
 ---
 tags:
   - type/view
-  - status/refined
   - topic/note-taking
 ---
 

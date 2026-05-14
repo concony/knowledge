@@ -1,7 +1,6 @@
 ---
 tags:
   - type/rule
-  - status/refined
   - topic/note-taking
   - topic/workflow
 ---
