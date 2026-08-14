@@ -1,0 +1,8 @@
+{
+  "enabledPlugins": {
+    "notion@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true,
+    "hookify@claude-plugins-official": true
+  }
+}
